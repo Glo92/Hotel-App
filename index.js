@@ -96,3 +96,4 @@ async function fetchData(){
         modal.style.display="flex";
         info.innerHTML=output;
     }
+    
